@@ -15,7 +15,9 @@ import { Loader } from "./Loader";
 
 export const CardProduct = () => {
   const { id } = useParams();
-  const [producto, setProducto] = useState(null);
+  const [producto, setProducto] = useState(
+    Producto.find((p) => p.id === "harry")[0]
+  );
   const [loader, setLoader] = useState(false);
 
   useEffect(() => {

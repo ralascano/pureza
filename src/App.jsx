@@ -10,7 +10,7 @@ function App() {
       <div style={{ paddingTop: "100px" }}>
         <Routes>
           <Route path="/:id" element={<CardProduct />} />
-          <Route path="*" element={<p>Producto no encontrado</p>} />
+          <Route path="/" element={<CardProduct />} />
         </Routes>
       </div>
     </BrowserRouter>

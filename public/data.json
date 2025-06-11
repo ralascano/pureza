@@ -221,7 +221,7 @@
     "whatsapp": "593984849691"
   },
   {
-    "id": "audifonos-fm9pro",
+    "id": "audifonosfm9pro",
     "nombre": "Audífonos Futurem FM9PRO",
     "descripcion": "Audífonos Futurem modelo FM9PRO con sonido envolvente y diseño ergonómico",
     "precio": 18,
@@ -238,6 +238,53 @@
       "https://cdn-blog.netlify.app/assets/fm9pro7.jpeg"
     ],
     "video": "",
+    "whatsapp": "593984849691"
+  },
+  {
+    "id": "tinturapropoleo",
+    "nombre": "Tintura de Propóleo",
+    "descripcion": "Producto natural procesado de uso medicinal",
+    "precio": 5.9,
+    "valoracion": 4.5,
+    "vendidos": 5,
+    "categoria": "Medicinal",
+    "imagenes": [
+      "https://cdn-blog.netlify.app/assets/propoleo1.jpeg",
+      "https://cdn-blog.netlify.app/assets/propoleo2.jpeg"
+    ],
+    "video": "https://www.tiktok.com/@puretza/video/7512660618596322566",
+    "whatsapp": "593984849691"
+  },
+  {
+    "id": "caramelopropoleo",
+    "nombre": "Propomiel",
+    "descripcion": "Caramelo mentolado de Propóleo",
+    "precio": 2.98,
+    "valoracion": 4,
+    "vendidos": 30,
+    "categoria": "Medicinal",
+    "imagenes": [
+      "https://cdn-blog.netlify.app/assets/caramelopropoleo1.jpeg",
+      "https://cdn-blog.netlify.app/assets/caramelopropoleo2.jpeg",
+      "https://cdn-blog.netlify.app/assets/caramelopropoleo3.jpeg"
+    ],
+    "video": "https://www.tiktok.com/@puretza/video/7508394984052116792",
+    "whatsapp": "593984849691"
+  },
+  {
+    "id": "carameloequinacea",
+    "nombre": "Echimiel",
+    "descripcion": "Caramelo masticable con Equinácea",
+    "precio": 3.38,
+    "valoracion": 4.5,
+    "vendidos": 20,
+    "categoria": "Medicinal",
+    "imagenes": [
+      "https://cdn-blog.netlify.app/assets/carameloequinacea1.jpeg",
+      "https://cdn-blog.netlify.app/assets/carameloequinacea2.jpeg",
+      "https://cdn-blog.netlify.app/assets/carameloequinacea3.jpeg"
+    ],
+    "video": "https://www.tiktok.com/@puretza/video/7508394984052116792",
     "whatsapp": "593984849691"
   }
 ]
