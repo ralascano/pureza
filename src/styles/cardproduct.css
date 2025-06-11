@@ -1,0 +1,18 @@
+.card-product-style {
+  width: 35rem;
+  height: 40rem;
+  background: #ffffff80;
+  border-radius: 25px;
+}
+
+@media (max-width: 700px) {
+  .card-product-style {
+    width: 24rem;
+  }
+}
+
+@media (max-width: 455px) {
+  .card-product-style {
+    width: 14rem;
+  }
+}
