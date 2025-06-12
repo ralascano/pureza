@@ -48,6 +48,7 @@ function App() {
       </Helmet>
       <Header />
       <div style={{ paddingTop: "100px" }}>
+        <img src="/og-image.png" style={{ display: "none" }} />
         <Routes>
           <Route path="/:id" element={<CardProduct />} />
           <Route path="/" element={<CardProduct />} />
